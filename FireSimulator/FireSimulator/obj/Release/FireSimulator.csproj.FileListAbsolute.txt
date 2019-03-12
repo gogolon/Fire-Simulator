@@ -1,0 +1,7 @@
+C:\Users\kubal\source\repos\FireSimulator\FireSimulator\bin\Release\FireSimulator.exe.config
+C:\Users\kubal\source\repos\FireSimulator\FireSimulator\bin\Release\FireSimulator.exe
+C:\Users\kubal\source\repos\FireSimulator\FireSimulator\bin\Release\FireSimulator.pdb
+C:\Users\kubal\source\repos\FireSimulator\FireSimulator\obj\Release\FireSimulator.csproj.CoreCompileInputs.cache
+C:\Users\kubal\source\repos\FireSimulator\FireSimulator\obj\Release\FireSimulator.exe
+C:\Users\kubal\source\repos\FireSimulator\FireSimulator\obj\Release\FireSimulator.pdb
+C:\Users\kubal\source\repos\FireSimulator\FireSimulator\obj\Release\FireSimulator.csprojAssemblyReference.cache

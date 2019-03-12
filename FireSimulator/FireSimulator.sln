@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireSimulator", "FireSimulator\FireSimulator.csproj", "{498B2FB5-338D-4178-B639-F7AE1021F6CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498B2FB5-338D-4178-B639-F7AE1021F6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498B2FB5-338D-4178-B639-F7AE1021F6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498B2FB5-338D-4178-B639-F7AE1021F6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498B2FB5-338D-4178-B639-F7AE1021F6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {930D401F-3A08-46C5-A453-F49081EDE713}
+	EndGlobalSection
+EndGlobal
